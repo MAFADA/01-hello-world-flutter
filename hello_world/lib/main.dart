@@ -4,11 +4,10 @@
 
 import 'package:flutter/widgets.dart';
 
-void main() =>
-  runApp(
-    const Center(
-      child:
-        Text('Hello, world!',
+void main() => runApp(
+      const Center(
+        child: Text(
+          '2031710168, M. Afada Nur Saiva Syahira',
           key: Key('title'),
           textDirection: TextDirection.ltr,
         ),
